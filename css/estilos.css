@@ -1,0 +1,126 @@
+/* Mis estilos personalizados para mi pagina web */.colorMenu
+
+
+
+
+
+.colormenu
+
+{background color: white}
+
+
+
+p {
+  
+ font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 20px; 
+    font-weight: 100;
+       
+}
+
+h4 {
+  
+  font-size: 29px; 
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #2B539D;
+  font-weight: 400; 
+    
+}
+a
+{
+    
+    color: #3CD2B5;  
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120%;
+    font-weight:bold;
+}
+h1
+{  
+  
+  text-align: center  
+    
+}
+
+.border1
+{    background-color: #3CD2B5; 
+padding: 160px;
+
+}
+
+
+
+h2
+
+{ 
+   font-family: 'Montserrat', sans-serif; 
+    text-align: center
+        
+}
+
+.habilidad
+
+{ 
+  padding-left: 50px;
+  padding-right: 50px;  
+   
+}
+.habilidad2
+
+{ 
+  padding-left: 50px;
+  padding-right: 50px;  
+    
+}
+
+
+.portafolio
+{
+    
+   margin-top: 50px; 
+    margin-left: 70px;
+    
+    margin-right: 70px;
+    }
+
+.portafolio2
+{
+    
+   margin-top: 50px; 
+    margin-left: 70px;
+    
+    margin-right: 70px;
+    }
+
+
+.border2
+{   
+    
+    background-color: #3CD2B5; 
+padding: 60px;
+
+}
+
+
+h3
+{ 
+   font-family: 'Montserrat', sans-serif; 
+    font-weight: bold;
+     text-align: left;
+   } 
+
+h5 {  
+  
+  text-align: center  
+    
+}
+
+
+
+
+
+
+
+
